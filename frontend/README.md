@@ -1,6 +1,6 @@
-# Better Software Assessment - Frontend
+# Better Associate Software Engineer Assessment - Frontend
 
-## Features
+## Features includes:
 
 - React component to Add and Display Comments
 - Axios for API calls
