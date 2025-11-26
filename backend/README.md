@@ -1,6 +1,6 @@
-# Better Software Assessment - Backend
+# Better Associate Software Engineer Assessment - Backend
 
-## Features
+## Features includes:
 
 - CRUD API for Comments
 - Flask + SQLAlchemy
