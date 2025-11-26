@@ -1,6 +1,6 @@
-# Better Software Assessment - Frontend
+# Better Associate Software Engineer Assessment - Frontend
 
-## Features
+## Features includes:
 
 - React component to Add and Display Comments
 - Axios for API calls
@@ -11,9 +11,9 @@ Import `Comments` component into any page and pass `taskId` as prop.
 
 
 
-# Better Software Assessment - Backend
+# Better Associate Software Engineer Assessment - Backend
 
-## Features
+## Features inculdes:
 
 - CRUD API for Comments
 - Flask + SQLAlchemy
